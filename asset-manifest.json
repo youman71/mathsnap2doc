@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/youman71/mathsnap2doc/static/css/main.e6c13ad2.css",
+    "main.js": "/youman71/mathsnap2doc/static/js/main.e7de8860.js",
+    "static/js/453.535a235b.chunk.js": "/youman71/mathsnap2doc/static/js/453.535a235b.chunk.js",
+    "static/media/instructional-video.mp4": "/youman71/mathsnap2doc/static/media/instructional-video.5f55925d87b05fff5ee1.mp4",
+    "index.html": "/youman71/mathsnap2doc/index.html",
+    "main.e6c13ad2.css.map": "/youman71/mathsnap2doc/static/css/main.e6c13ad2.css.map",
+    "main.e7de8860.js.map": "/youman71/mathsnap2doc/static/js/main.e7de8860.js.map",
+    "453.535a235b.chunk.js.map": "/youman71/mathsnap2doc/static/js/453.535a235b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e7de8860.js"
+  ]
+}
